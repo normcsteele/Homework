@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    background-color:grey;
+}
+h2 {
+    color:blue;
+}
+h3 {
+    color:orange;
+}
+img {
+    box-shadow: 10px 10px 5px black;
+
+}section {
+    backgorund: clor #000000;
+}
+
+p {
+    font-size: 15px;
+    color:grey;
+}
+ul {
+    border-style: solid;
+    color:grey;
+}
